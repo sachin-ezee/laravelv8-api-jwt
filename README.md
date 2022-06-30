@@ -14,5 +14,5 @@
 
     This will create a `scribe.php` file in your `config` folder.
 3. After install run command `php artisan scribe:generate`
-
+4. After Run Project Get API Document `http://127.0.0.1:8000/docs`
     For More Info:- <a href="https://scribe.knuckles.wtf/laravel/" target="_blank">https://scribe.knuckles.wtf/laravel/</a>
