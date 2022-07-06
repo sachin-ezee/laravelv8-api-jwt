@@ -30,7 +30,7 @@
 ## For Create Database Table
 1. For Create Blank Table `php artisan make:migration create_YOURETABLE_NAME_table`
 
-    For More Info:- <a href="https://laravel.com/docs/9.x/migrations" target="_blank">https://laravel.com/docs/9.x/migrations</a>
+    For More Info:- <a href="https://laravel.com/docs/8.x/migrations" target="_blank">https://laravel.com/docs/8.x/migrations</a>
 
 
-Notes:-  Database Table column Types <a href="https://laravel.com/docs/9.x/migrations#available-column-types" target="_blank" >https://laravel.com/docs/9.x/migrations#available-column-types</a>
+Notes:-  Database Table column Types <a href="https://laravel.com/docs/8.x/migrations#available-column-types" target="_blank" >https://laravel.com/docs/8.x/migrations#available-column-types</a>
